@@ -1,1 +1,4 @@
 .idea
+main/_pycache_
+main/data
+main/inference
